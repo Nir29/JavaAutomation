@@ -22,5 +22,7 @@ public class TableOf9 {
         System.out.printf("%d*9=%d",a,a*9);
         System.out.println();
         System.out.printf("%d*10=%d",a,a*10);
+
+
     }
 }
